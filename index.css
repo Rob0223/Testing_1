@@ -20,7 +20,7 @@ body {
 
 .topnav {
   overflow: hidden;
-  background-color: #333;
+  background-color: rgba(151, 84, 63, 0.753);
 }
 
 .topnav a {
