@@ -59,4 +59,7 @@ body {
 
 </body>
 </html>
-<header1> <b> <b/> <header1>
+
+h1 {
+    font-size: 35px;
+}
