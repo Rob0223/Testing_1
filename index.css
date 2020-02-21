@@ -76,10 +76,6 @@ h4 {
     font-size: 30px; 
 }
 
-p {
-    font-size: 18px;
-}
-
-p {
-    font-size: 18px;
+p.normal {
+    font-style: normal;
 }
